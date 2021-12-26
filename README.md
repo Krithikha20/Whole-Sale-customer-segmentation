@@ -1,2 +1,2 @@
-# Whole-Sale-customer-segmentation
+# Wholesale-customer-segmentation
 Segmenting the wholesale customer dataset
